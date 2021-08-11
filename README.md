@@ -1,6 +1,6 @@
 # Binary-Search-Tree
 # A program demonstrating simple operations in a Binary search tree, an important data structure in programming.
-A Binary Search Tree is an important data structure which is used in wide areas of Computer science.
+A Binary Search Tree is an important data structure which is used in wide areas of Computer science. 
 # 1. A binary tree is a tree-type non-linear data structure with a maximum of two children for each parent. Every node in a binary tree has a left and right reference along with the data element. The node at the top of the hierarchy of a tree is called the root node.
 
 Following Image gives an idea about a binary tree:
